@@ -1,0 +1,22 @@
+{
+  "journal": {
+    "img": "/explore-images/journals.png",
+    "name": "Journals",
+    "description": "Browse personal journals from our participants."
+  },
+  "essay": {
+    "img": "/explore-images/essays.png",
+    "name": "Essays",
+    "description": "Explore a collection of essays written by inmates."
+  },
+  "poetry": {
+    "img": "/explore-images/poetry.png",
+    "name": "Poetry",
+    "description": "Read poetry written by our community members."
+  },
+  "art": {
+    "img": "/explore-images/arts.png",
+    "name": "Arts",
+    "description": "Discover artworks created by our participants."
+  }
+}
